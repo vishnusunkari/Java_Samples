@@ -1,3 +1,4 @@
+//AnagramCheck
 public class AnagramCheckAllKeys {
 
     //Time complexity O(n)
